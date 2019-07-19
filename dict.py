@@ -4,4 +4,4 @@ def print_dict(dict):
 
 list = ["yes", "despacito", "bruh"]
 
-print_dict[key]
+print_dict(list)

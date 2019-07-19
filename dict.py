@@ -4,11 +4,4 @@ def print_dict(dict):
 
 list = ["yes", "despacito", "bruh"]
 
-song = {
-    "artist": "Spongebob",
-    "song_name": "Campfire song song"
-}
-
-print_dict(list)
-
-print_dict(song)
+print_dict[key]
